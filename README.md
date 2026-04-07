@@ -1,5 +1,5 @@
 # Interactive Kernel Filter Lab (Web)
-https://emikohigashi.github.io/kernek-filter-tutorial/
+https://emikohigashi.github.io/kernel-filter-lab/
 
 画像処理の基本である「カーネルフィルタ（畳み込み演算）」の仕組みを視覚的に学習・体験できるWebツールです。Python (Tkinter) 版のプロトタイプをベースに、ブラウザで動くように移植しました。
 
