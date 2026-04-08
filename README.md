@@ -10,8 +10,10 @@ https://emikohigashi.github.io/kernel-filter-lab/
    <img src="https://github.com/EmikoHigashi/kernel-filter-lab/blob/main/img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-04-07%20111538.png" alt="Flowers on a Plate" width = 100>　
   
 2. **フィルタの適用**:  
-   -  kernel filter プルダウンメニューからプリセット（Sharpen, Edge等）を選択します。
-   -  3x3　グリッドの数値は自分で変えることができます  
+   -  kernel Sum の下にある3x3　グリッドがkernel filterです
+   -  プルダウンメニューからプリセット（Sharpen, Edge等）を選択します。
+   -  3x3　グリッドの数値は自分で変えることができます
+   -  kernel Sumは3x3　グリッドの合計値です
      
 4. **ピクセルの観察**:
    - 画像の中の赤枠は、**矢印キー**で移動できます。
